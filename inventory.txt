@@ -1,1 +1,7 @@
 1,pant,30,700.0
+2,shirt,50,450.0
+3,tshirt,45,350.0
+4,lower,60,600.0
+5,hoodie,25,1200.0
+6,track suit,35,1500.0
+7,rain coat,15,500
