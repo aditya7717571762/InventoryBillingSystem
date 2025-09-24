@@ -25,11 +25,9 @@ InventoryBillingSystem/
 
 ##  Run Instructions
 1. Open the folder in **VS Code / IntelliJ**
-2. Compile and run:
-   ```bash
- javac Main.java
- java main.java
-   ```
+2. open terminal
+3. write the code (javac Main.java)
+4. and then (java main.java)
 
 ##  Example Flow
 1. Add Product → Stored in `inventory.txt`
