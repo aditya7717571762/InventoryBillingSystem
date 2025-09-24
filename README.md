@@ -27,8 +27,8 @@ InventoryBillingSystem/
 1. Open the folder in **VS Code / IntelliJ**
 2. Compile and run:
    ```bash
-   javac src/**/*.java
-   java -cp src Main
+ javac Main.java
+ java main.java
    ```
 
 ##  Example Flow
